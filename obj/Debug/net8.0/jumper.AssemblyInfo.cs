@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jumper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98927e41354ba40e6cd3ab8d94537626f87f921a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7290500a21c34ee06f3f834fb5a45cca12bb660")]
 [assembly: System.Reflection.AssemblyProductAttribute("jumper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jumper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

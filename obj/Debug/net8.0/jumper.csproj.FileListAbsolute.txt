@@ -1,0 +1,15 @@
+D:\git\c#\jumper\bin\Debug\net8.0\jumper.exe
+D:\git\c#\jumper\bin\Debug\net8.0\jumper.deps.json
+D:\git\c#\jumper\bin\Debug\net8.0\jumper.runtimeconfig.json
+D:\git\c#\jumper\bin\Debug\net8.0\jumper.dll
+D:\git\c#\jumper\bin\Debug\net8.0\jumper.pdb
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.AssemblyInfoInputs.cache
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.AssemblyInfo.cs
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.csproj.CoreCompileInputs.cache
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.sourcelink.json
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.dll
+D:\git\c#\jumper\obj\Debug\net8.0\refint\jumper.dll
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.pdb
+D:\git\c#\jumper\obj\Debug\net8.0\jumper.genruntimeconfig.cache
+D:\git\c#\jumper\obj\Debug\net8.0\ref\jumper.dll
